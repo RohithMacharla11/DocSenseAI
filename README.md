@@ -395,12 +395,12 @@ For questions, issues, or collaboration opportunities:
 - **GitHub**: [RohithMacharla11](https://github.com/RohithMacharla11)
 - **LinkedIn**: [macharla-rohith-rm2005](https://www.linkedin.com/in/macharla-rohith-rm2005/)
 
-- **Rohith Macharla**
-- **Email**: rohith.macharla@adobe.com
-- **GitHub**: [RohithMacharla](https://github.com/RohithMacharla11)
-- **LinkedIn**: [RohithMacharla](https://www.linkedin.com/in/macharla-rohith-rm2005/)
+- **Shiva Chaithanya Vangala**
+- **Email**: vangalashivachaithanya@gmail.com
+- **GitHub**: [Shiva Chaithanya Vangala](https://github.com/Shiva-vangala)
+- **LinkedIn**: [Shiva Chaithanya Vangala ] (https://www.linkedin.com/in/shiva-chaithanya--vangala/)
 
-- **Rohith Macharla**
-- **Email**: rohith.macharla@adobe.com
-- **GitHub**: [RohithMacharla](https://github.com/RohithMacharla)
-- **LinkedIn**: [RohithMacharla](https://www.linkedin.com/in/rohith-macharla/)
+- **Narishetti Nagaraju**
+- **Email**: narishettinagaraju26@gmail.com 
+- **GitHub**: [ NagarajuNarishetti](https://github.com/NagarajuNarishetti)
+- **LinkedIn**: [narishetti-nagaraju](https://www.linkedin.com/in/narishetti-nagaraju/)
