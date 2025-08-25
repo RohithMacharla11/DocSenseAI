@@ -1,4 +1,5 @@
-# 🏆 Adobe India Hackathon 2025 - Complete Solution Portfolio
+# DocSenseAI
+## -Adobe India Hackathon 2025
 
 > **Advanced PDF Intelligence Solutions: Document Structure Extraction & Persona-Driven Analysis**
 
